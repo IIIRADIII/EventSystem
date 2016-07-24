@@ -1,0 +1,9 @@
+C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe.config
+C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.pdb
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Debug\LampaEventService.exe
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Debug\LampaEventService.pdb
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Debug\LampaEventService.LampaEventService.resources
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Debug\LampaEventService.csproj.GenerateResource.Cache
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Debug\LampaEventService.csprojResolveAssemblyReference.cache
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Debug\LampaEventService.ProjectInstaller.resources

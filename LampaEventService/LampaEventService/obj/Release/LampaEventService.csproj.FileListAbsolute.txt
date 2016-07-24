@@ -1,0 +1,7 @@
+C:\Users\radik\git\LampaEventService\LampaEventService\bin\Release\LampaEventService.exe.config
+C:\Users\radik\git\LampaEventService\LampaEventService\bin\Release\LampaEventService.exe
+C:\Users\radik\git\LampaEventService\LampaEventService\bin\Release\LampaEventService.pdb
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Release\LampaEventService.exe
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Release\LampaEventService.pdb
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Release\LampaEventService.LampaEventService.resources
+C:\Users\radik\git\LampaEventService\LampaEventService\obj\Release\LampaEventService.csproj.GenerateResource.Cache

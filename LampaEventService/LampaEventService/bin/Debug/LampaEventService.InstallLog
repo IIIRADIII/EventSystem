@@ -1,0 +1,133 @@
+﻿Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe.
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe.
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Устанавливается служба LampaEventService...
+Служба LampaEventService успешно установлена.
+Создается исходный EventLog LampaEventService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется удаление сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+Выполняется удаление источника EventLog LampaEventService.
+Выполняется удаление службы LampaEventService из системы...
+Служба LampaEventService успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется удаление сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Выполняется установка сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 
+Устанавливается служба LampaEventService...
+Служба LampaEventService успешно установлена.
+Создается исходный EventLog LampaEventService в журнале Application...
+Выполняется фиксация сборки 'C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe'.
+Затронуты следующие параметры:
+   i = 
+   logfile = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.InstallLog
+   assemblypath = C:\Users\radik\git\LampaEventService\LampaEventService\bin\Debug\LampaEventService.exe
+   logtoconsole = 

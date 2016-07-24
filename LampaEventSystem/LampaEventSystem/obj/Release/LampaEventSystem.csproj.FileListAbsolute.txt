@@ -1,0 +1,9 @@
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\bin\Release\LampaEventSystem.exe.config
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\bin\Release\LampaEventSystem.exe
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\bin\Release\LampaEventSystem.pdb
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\obj\Release\LampaEventSystem.formMain.resources
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\obj\Release\LampaEventSystem.Properties.Resources.resources
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\obj\Release\LampaEventSystem.csproj.GenerateResource.Cache
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\obj\Release\LampaEventSystem.exe.licenses
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\obj\Release\LampaEventSystem.exe
+C:\Users\radik\git\LampaEventSystem\LampaEventSystem\obj\Release\LampaEventSystem.pdb
